@@ -1,0 +1,15 @@
+D:\Project\WordleGame\WordleGame\bin\Debug\net6.0\WordleGame.exe
+D:\Project\WordleGame\WordleGame\bin\Debug\net6.0\WordleGame.deps.json
+D:\Project\WordleGame\WordleGame\bin\Debug\net6.0\WordleGame.runtimeconfig.json
+D:\Project\WordleGame\WordleGame\bin\Debug\net6.0\WordleGame.dll
+D:\Project\WordleGame\WordleGame\bin\Debug\net6.0\WordleGame.pdb
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.csproj.AssemblyReference.cache
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.AssemblyInfoInputs.cache
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.AssemblyInfo.cs
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.csproj.CoreCompileInputs.cache
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.dll
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\refint\WordleGame.dll
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.pdb
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\WordleGame.genruntimeconfig.cache
+D:\Project\WordleGame\WordleGame\obj\Debug\net6.0\ref\WordleGame.dll
